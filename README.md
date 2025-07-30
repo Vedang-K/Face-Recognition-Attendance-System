@@ -25,9 +25,9 @@ This project is a **Face Recognition Attendance System** built using **Python**,
 - os
 
 ---
-```
-## 📁 Folder Structure
 
+## 📁 Folder Structure
+```
 FaceRecognitionAttendance/
 │
 ├── student_images/ # Folder containing student face images (used for training)
@@ -37,9 +37,9 @@ FaceRecognitionAttendance/
 
 ```
 ---
-```
-## 🖼️ How to Add Students
 
+## 🖼️ How to Add Students
+```
 1. Create a folder named **`student_images`** in the project directory.
 2. Add one image per student inside the folder.
 3. Rename each image to the student’s name. Example:
@@ -47,10 +47,10 @@ student_images/
 ├── Aaryan.jpg
 ├── Sharvil.png
 └── Vedang.jpeg
-
+```
 > 📷 Make sure the faces in the images are clearly visible and front-facing.
 
-```
+
 ---
 
 ## ✅ Output Example
